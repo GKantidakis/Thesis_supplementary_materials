@@ -1,2 +1,2 @@
-This chapter is based on: Kantidakis G, Putter H, Lancia C, Boer J, Braat AE, Fiocco M. Survival prediction models since liver transplantation - 
+This chapter is based on: G. Kantidakis, H. Putter, C. Lancia, J. Boer, A.E. Braat, M. Fiocco. Survival prediction models since liver transplantation - 
 comparisons between Cox models and machine learning techniques. BMC Medical Research Methodology, 20(1):1-14, 2020.
