@@ -1,2 +1,3 @@
-This chapter is based on a joint work with Audinga-Dea Hazewinkel and Marta Fiocco. Manuscript is entitled 
+This chapter is based on a joint work with A. D. Hazewinkel and M. Fiocco. Manuscript is entitled 
 "Neural networks for survival prediction in medicine using prognostic factors: a review and critical appraisal".
+Submitted.
