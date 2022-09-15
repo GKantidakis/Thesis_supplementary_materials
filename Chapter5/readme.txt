@@ -1,3 +1,1 @@
-This chapter is based on a joint work with A. D. Hazewinkel and M. Fiocco. Manuscript is entitled 
-"Neural networks for survival prediction in medicine using prognostic factors: a review and critical appraisal".
-Submitted.
+This chapter is based on: G. Kantidakis, A. D. Hazewinkel, and M. Fiocco. Neural networks for survival prediction in medicine using prognostic factors: a review and critical appraisal. Computational and Mathematical Methods in Medicine, 2022:1176060, 2022.
